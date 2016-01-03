@@ -1,0 +1,584 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:VDS.RDF.Graph">
+      <Item value="CreateUriNode`0" priority="0" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VDS.RDF.Query.SparqlResult">
+      <Item value="GetType`0" priority="0" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="Variables" priority="0" />
+      <Item value="Value`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.StackPanel">
+      <Item value="HorizontalAlignment" priority="0" />
+      <Item value="Children" priority="7" />
+      <Item value="Margin" priority="0" />
+      <Item value="Orientation" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="NTriplesWriter`0" priority="0" />
+      <Item value="new" priority="34" />
+      <Item value="NTriplesWriter" priority="0" />
+      <Item value="wr" priority="0" />
+      <Item value="myGraph" priority="16" />
+      <Item value="try" priority="2" />
+      <Item value="MessageBox`0" priority="9" />
+      <Item value="ex" priority="2" />
+      <Item value="MessageBoxButton`0" priority="0" />
+      <Item value="Error" priority="0" />
+      <Item value="private" priority="10" />
+      <Item value="string" priority="7" />
+      <Item value="dbpeidaNtFileName" priority="1" />
+      <Item value="NTriplesParser`0" priority="0" />
+      <Item value="NTriplesParser" priority="0" />
+      <Item value="ntp" priority="0" />
+      <Item value="Graph" priority="1" />
+      <Item value="SparqlRemoteEndpoint`0" priority="0" />
+      <Item value="SparqlRemoteEndpoint" priority="2" />
+      <Item value="Uri" priority="2" />
+      <Item value="sre" priority="0" />
+      <Item value="query" priority="7" />
+      <Item value="SearchTextBox" priority="1" />
+      <Item value="null" priority="11" />
+      <Item value="if" priority="21" />
+      <Item value="results" priority="3" />
+      <Item value="SparqlResult`0" priority="0" />
+      <Item value="SparqlResult" priority="0" />
+      <Item value="re" priority="1" />
+      <Item value="Grid`0" priority="2" />
+      <Item value="Grid" priority="1" />
+      <Item value="Rectangle`0" priority="0" />
+      <Item value="Rectangle" priority="0" />
+      <Item value="rec" priority="2" />
+      <Item value="Brush`0" priority="1" />
+      <Item value="result" priority="4" />
+      <Item value="Stretch" priority="2" />
+      <Item value="internalGrid" priority="5" />
+      <Item value="internalWrap" priority="0" />
+      <Item value="StackPanel`0" priority="6" />
+      <Item value="internalStackPanel" priority="1" />
+      <Item value="StackPanel" priority="2" />
+      <Item value="Thickness" priority="1" />
+      <Item value="String`0" priority="6" />
+      <Item value="SparlQueryTextBox" priority="0" />
+      <Item value="TryFindResource`0" priority="0" />
+      <Item value="catch" priority="3" />
+      <Item value="Exception`0" priority="3" />
+      <Item value="ScrollViewer`0" priority="2" />
+      <Item value="scroll" priority="5" />
+      <Item value="ScrollViewer" priority="0" />
+      <Item value="WrapPanel`0" priority="1" />
+      <Item value="mainPanel" priority="4" />
+      <Item value="WrapPanel" priority="0" />
+      <Item value="ScrollBar`0" priority="0" />
+      <Item value="this" priority="5" />
+      <Item value="rw" priority="0" />
+      <Item value="public" priority="22" />
+      <Item value="void" priority="5" />
+      <Item value="browseTextBox" priority="5" />
+      <Item value="MyRdfRes" priority="9" />
+      <Item value="TypesComboBox" priority="0" />
+      <Item value="Styles" priority="0" />
+      <Item value="MyStyles.xaml" priority="0" />
+      <Item value="StaticResourceExtension`0" priority="0" />
+      <Item value="Label`0" priority="0" />
+      <Item value="titleLabel" priority="6" />
+      <Item value="Label" priority="0" />
+      <Item value="Center" priority="2" />
+      <Item value="resultSet" priority="5" />
+      <Item value="i" priority="7" />
+      <Item value="Hyperlink`0" priority="2" />
+      <Item value="Hyperlink" priority="0" />
+      <Item value="GetPageCompletedEventArgs`0" priority="0" />
+      <Item value="hp" priority="1" />
+      <Item value="href" priority="7" />
+      <Item value="dataLabel" priority="7" />
+      <Item value="NewsStyleUriParser`0" priority="0" />
+      <Item value="Href_Click`0" priority="1" />
+      <Item value="e" priority="1" />
+      <Item value="browseFunction`0" priority="2" />
+      <Item value="browseComboBox" priority="3" />
+      <Item value="browse" priority="1" />
+      <Item value="tc" priority="0" />
+      <Item value="LightYellow" priority="0" />
+      <Item value="LightPink" priority="0" />
+      <Item value="myTabControl" priority="15" />
+      <Item value="TabItem`0" priority="2" />
+      <Item value="TabItem" priority="0" />
+      <Item value="item" priority="2" />
+      <Item value="myGrid" priority="1" />
+      <Item value="myBrowser" priority="4" />
+      <Item value="Window2`0" priority="0" />
+      <Item value="Window2" priority="0" />
+      <Item value="w2" priority="0" />
+      <Item value="BrowserWindow`0" priority="0" />
+      <Item value="BrowserWindow" priority="0" />
+      <Item value="bw" priority="1" />
+      <Item value="Graph`0" priority="1" />
+      <Item value="g" priority="0" />
+      <Item value="return" priority="2" />
+      <Item value="RdfBrowser`0" priority="4" />
+      <Item value="brw" priority="2" />
+      <Item value="true" priority="4" />
+      <Item value="OK" priority="1" />
+      <Item value="Information" priority="0" />
+      <Item value="LightSalmon" priority="1" />
+      <Item value="LightGray" priority="0" />
+      <Item value="LightSkyBlue" priority="2" />
+      <Item value="Brushes`0" priority="0" />
+      <Item value="endpoint" priority="10" />
+      <Item value="DockPanel`0" priority="0" />
+      <Item value="True" priority="2" />
+      <Item value="Top" priority="0" />
+      <Item value="ConnectedCheckBox" priority="0" />
+      <Item value="LightGreen" priority="0" />
+      <Item value="LightSlateGray" priority="0" />
+      <Item value="my" priority="0" />
+      <Item value="ConnectToWebWindow`0" priority="0" />
+      <Item value="ConnectToWebWindow" priority="0" />
+      <Item value="FileDialog`0" priority="0" />
+      <Item value="OpenFileDialog`0" priority="0" />
+      <Item value="OpenFileDialog" priority="0" />
+      <Item value="ofd" priority="5" />
+      <Item value="PathTextBox" priority="1" />
+      <Item value="Environment`0" priority="1" />
+      <Item value="Close`0" priority="0" />
+      <Item value="RemoteWrap" priority="0" />
+      <Item value="FileWrap" priority="0" />
+      <Item value="false" priority="4" />
+      <Item value="RemoteRadio" priority="0" />
+      <Item value="else" priority="4" />
+      <Item value="UrlTextBox" priority="0" />
+      <Item value="MessageBoxImage`0" priority="0" />
+      <Item value="con" priority="0" />
+      <Item value="initTypesComboBox`0" priority="0" />
+      <Item value="EndInit`0" priority="0" />
+      <Item value="SaveFileDialog" priority="0" />
+      <Item value="savePath" priority="0" />
+      <Item value="sfd" priority="2" />
+      <Item value="ReferenceEquals`0" priority="0" />
+      <Item value="ref" priority="1" />
+      <Item value="Images" priority="0" />
+      <Item value="TabControl`0" priority="0" />
+      <Item value="AddTab_Click`0" priority="0" />
+      <Item value="int" priority="2" />
+      <Item value="sender" priority="1" />
+      <Item value="tabNumber" priority="3" />
+      <Item value="bool" priority="1" />
+      <Item value="tabClosing" priority="3" />
+      <Item value="while" priority="1" />
+      <Item value="index" priority="0" />
+      <Item value="variableName" priority="0" />
+      <Item value="continue" priority="0" />
+      <Item value="break" priority="2" />
+      <Item value="data" priority="1" />
+      <Item value="internalSt" priority="4" />
+      <Item value="typePromptLabel" priority="0" />
+      <Item value="type" priority="0" />
+      <Item value="mainSt" priority="0" />
+      <Item value="stp" priority="2" />
+      <Item value="Horizontal" priority="0" />
+      <Item value="BrowseTriplesMenuItem" priority="4" />
+      <Item value="MenuItem`0" priority="0" />
+      <Item value="BrowseRdfMenuItem" priority="1" />
+      <Item value="enum" priority="0" />
+      <Item value="types" priority="0" />
+      <Item value="b" priority="0" />
+      <Item value="RdfRadio" priority="0" />
+      <Item value="TripleRadio" priority="0" />
+      <Item value="BrowsingType" priority="0" />
+      <Item value="BrowsingType`0" priority="0" />
+      <Item value="Type`0" priority="0" />
+      <Item value="setBrowsingTypeForBrowser`0" priority="0" />
+      <Item value="Enter" priority="0" />
+      <Item value="Auto" priority="0" />
+      <Item value="TextBlock`0" priority="4" />
+      <Item value="TextBlock" priority="1" />
+      <Item value="tb" priority="0" />
+      <Item value="AutoResizedEventArgs`0" priority="0" />
+      <Item value="Application`0" priority="0" />
+      <Item value="Cursor`0" priority="0" />
+      <Item value="Window`0" priority="0" />
+      <Item value="info" priority="0" />
+      <Item value="context" priority="0" />
+      <Item value="BrowsingConfig`0" priority="0" />
+      <Item value="config" priority="6" />
+      <Item value="BrowsingConfig" priority="0" />
+      <Item value="RdfBrowsing" priority="0" />
+      <Item value="TriplesBrowsing" priority="0" />
+      <Item value="Run`0" priority="3" />
+      <Item value="Run" priority="1" />
+      <Item value="r" priority="0" />
+      <Item value="TextDecorations`0" priority="0" />
+      <Item value="dataBlock" priority="4" />
+      <Item value="TextWrapping`0" priority="0" />
+      <Item value="address" priority="3" />
+      <Item value="Href_Click" priority="0" />
+      <Item value="browseThisAddress`0" priority="1" />
+      <Item value="_run" priority="2" />
+      <Item value="MouseButtonEventHandler`0" priority="0" />
+      <Item value="Wrap" priority="0" />
+      <Item value="popLink" priority="4" />
+      <Item value="MyRdfResInPopup" priority="2" />
+      <Item value="MyRdfResultControl" priority="0" />
+      <Item value="MyWpfRdfResultControl`0" priority="0" />
+      <Item value="_RdfRes" priority="2" />
+      <Item value="delegate" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Windows" priority="0" />
+      <Item value="Controls" priority="0" />
+      <Item value="Primitives" priority="0" />
+      <Item value="Popup`0" priority="0" />
+      <Item value="_popUp" priority="1" />
+      <Item value="navigateTo`0" priority="3" />
+      <Item value="Fade" priority="0" />
+      <Item value="ComboBox`0" priority="0" />
+      <Item value="browseImage" priority="0" />
+      <Item value="LightBlue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VDS.RDF.Writing.NTriplesWriter">
+      <Item value="Save`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="2" />
+      <Item value="StackTrace" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxButton">
+      <Item value="OK" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxImage">
+      <Item value="Error" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VDS.RDF.Parsing.NTriplesParser">
+      <Item value="Load`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VDS.RDF.Query.SparqlRemoteEndpoint">
+      <Item value="QueryWithResultGraph`0" priority="0" />
+      <Item value="QueryWithResultSet`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="9" />
+      <Item value="MinHeight" priority="0" />
+      <Item value="HorizontalContentAlignment" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="TrimEnd`0" priority="4" />
+      <Item value="Length" priority="1" />
+      <Item value="CompareTo`0" priority="1" />
+      <Item value="StartsWith`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Shapes.Rectangle">
+      <Item value="Stroke" priority="0" />
+      <Item value="StrokeThickness" priority="1" />
+      <Item value="VerticalAlignment" priority="0" />
+      <Item value="HorizontalAlignment" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Brushes">
+      <Item value="Aqua" priority="0" />
+      <Item value="LightBlue" priority="0" />
+      <Item value="Bisque" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Grid">
+      <Item value="Children" priority="2" />
+      <Item value="Margin" priority="0" />
+      <Item value="SetRow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UIElementCollection">
+      <Item value="Add`0" priority="13" />
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ScrollViewer">
+      <Item value="Content" priority="1" />
+      <Item value="HorizontalScrollBarVisibility" priority="0" />
+      <Item value="VerifyAccess`0" priority="0" />
+      <Item value="VerticalScrollBarVisibility" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyRdfResultControl.MyWpfRdfResultControl">
+      <Item value="Children" priority="3" />
+      <Item value="setResultSet`0" priority="0" />
+      <Item value="init`0" priority="0" />
+      <Item value="Href_Click" priority="1" />
+      <Item value="initForRdfTypeBrowing`0" priority="0" />
+      <Item value="_popUp" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RdfUsing.ResultWindow">
+      <Item value="myGraph" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ComboBox">
+      <Item value="ClearValue`0" priority="0" />
+      <Item value="Items" priority="6" />
+      <Item value="Text" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Clear`0" priority="0" />
+      <Item value="Add`0" priority="4" />
+      <Item value="Contains`0" priority="0" />
+      <Item value="Insert`0" priority="0" />
+      <Item value="RemoveAt`0" priority="2" />
+      <Item value="Count" priority="4" />
+      <Item value="GetItemAt`0" priority="0" />
+      <Item value="CurrentPosition" priority="0" />
+      <Item value="CurrentItem" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Trigger">
+      <Item value="EnterActions" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Label">
+      <Item value="Foreground" priority="1" />
+      <Item value="HorizontalContentAlignment" priority="0" />
+      <Item value="VerticalContentAlignment" priority="0" />
+      <Item value="HorizontalAlignment" priority="0" />
+      <Item value="Content" priority="1" />
+      <Item value="Background" priority="0" />
+      <Item value="MaxWidth" priority="1" />
+      <Item value="Width" priority="0" />
+      <Item value="Run`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VDS.RDF.Query.SparqlResultSet">
+      <Item value="Concat`1" priority="0" />
+      <Item value="Count" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Documents.Hyperlink">
+      <Item value="Tag" priority="1" />
+      <Item value="Click" priority="0" />
+      <Item value="Inlines" priority="1" />
+      <Item value="TargetName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Documents.InlineCollection">
+      <Item value="Add`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:VDS.RDF.INode">
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.RoutedEventArgs">
+      <Item value="Source" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.LinearGradientBrush">
+      <Item value="EndPoint" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TabControl">
+      <Item value="Items" priority="12" />
+      <Item value="TabIndex" priority="0" />
+      <Item value="SelectedIndex" priority="0" />
+      <Item value="Focus`0" priority="0" />
+      <Item value="SelectedItem" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TabItem">
+      <Item value="Content" priority="1" />
+      <Item value="Header" priority="0" />
+      <Item value="IsSelected" priority="0" />
+      <Item value="Background" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyRdfBrowserUserControl.RdfBrowser">
+      <Item value="ActualHeight" priority="0" />
+      <Item value="myGraph" priority="0" />
+      <Item value="init`0" priority="0" />
+      <Item value="setMyGraph`0" priority="1" />
+      <Item value="setBrowsingType`0" priority="0" />
+      <Item value="SetCurrentValue`0" priority="0" />
+      <Item value="setConfig`0" priority="0" />
+      <Item value="getConfig`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RdfUsing.Window2">
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RdfUsing.BrowserWindow">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="myGraph" priority="0" />
+      <Item value="myTabControl" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UserControl">
+      <Item value="Loaded" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.DockPanel">
+      <Item value="LastChildFill" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.CheckBox">
+      <Item value="IsChecked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="Value" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyRdfBrowserUserControl.ConnectToWebWindow">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+      <Item value="myGraph" priority="0" />
+      <Item value="setEndpoint`0" priority="0" />
+      <Item value="setMyGraph`0" priority="0" />
+      <Item value="setConfig`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.OpenFileDialog">
+      <Item value="ShowDialog`0" priority="1" />
+      <Item value="FileName" priority="0" />
+      <Item value="InitialDirectory" priority="0" />
+      <Item value="Filter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="CurrentDirectory" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.WrapPanel">
+      <Item value="IsEnabled" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.RadioButton">
+      <Item value="IsChecked" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Win32.SaveFileDialog">
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="FileName" priority="0" />
+      <Item value="InitialDirectory" priority="0" />
+      <Item value="Filter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.MenuItem">
+      <Item value="Header" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="IsChecked" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Image">
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Orientation">
+      <Item value="Vertical" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="ToLiteral`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@RdfUsing.BrowsingType">
+      <Item value="TriplesBrowsing" priority="4" />
+      <Item value="RdfBrowsing" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.KeyEventArgs">
+      <Item value="Key" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Controls.ScrollBarVisibility">
+      <Item value="Visible" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="VerticalContentAlignment" priority="0" />
+      <Item value="TextAlignment" priority="2" />
+      <Item value="Text" priority="2" />
+      <Item value="TextWrapping" priority="1" />
+      <Item value="Inlines" priority="2" />
+      <Item value="Initialized" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Application">
+      <Item value="Windows" priority="0" />
+      <Item value="MainWindow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RdfUsing.Window1">
+      <Item value="Close`0" priority="1" />
+      <Item value="Hide`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Runtime.Serialization.SerializationInfo">
+      <Item value="GetInt32`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MyRdfBrowserUserControl.BrowsingConfig">
+      <Item value="types" priority="3" />
+      <Item value="endpoint" priority="1" />
+      <Item value="myGraph" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Documents.Run">
+      <Item value="TextDecorations" priority="3" />
+      <Item value="DataGridColumn`0" priority="0" />
+      <Item value="MouseMove" priority="0" />
+      <Item value="MouseDown" priority="1" />
+      <Item value="Text" priority="2" />
+      <Item value="MouseEnter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.TextDecorations">
+      <Item value="Underline" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="JetBrains.ReSharper.Feature.Services.Xaml.CodeCompletion.XamlBasicCompletionContext">
+      <Item value="ctx" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.TextWrapping">
+      <Item value="Wrap" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Primitives.Popup">
+      <Item value="IsOpen" priority="1" />
+      <Item value="Tag" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.MouseEventArgs">
+      <Item value="Source" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="99502FC9-00E9-4086-8BE4-D85BE90C1E69/f:App.xaml" caret="191" fromTop="3" />
+      <File id="99502FC9-00E9-4086-8BE4-D85BE90C1E69/f:App.xaml.cs" caret="0" fromTop="0" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:BrowsingConfig.cs" caret="292" fromTop="6" />
+      <File id="99502FC9-00E9-4086-8BE4-D85BE90C1E69/f:BrowserWindow.xaml.cs" caret="799" fromTop="8" />
+      <File id="99502FC9-00E9-4086-8BE4-D85BE90C1E69/f:Window1.xaml" caret="364" fromTop="6" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:BrowsingType.cs" caret="0" fromTop="0" />
+      <File id="99502FC9-00E9-4086-8BE4-D85BE90C1E69/f:BrowserWindow.xaml" caret="2039" fromTop="3" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:ConnectToWebWindow.xaml" caret="726" fromTop="3" />
+      <File id="1705B3A0-FDAE-4B5F-A694-07AE52ED66AB/f:MyWpfRdfResultControl.cs" caret="7466" fromTop="20" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:ConnectToWebWindow.xaml.cs" caret="2261" fromTop="19" />
+      <File id="99502FC9-00E9-4086-8BE4-D85BE90C1E69/f:Window1.xaml.cs" caret="7719" fromTop="17" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml" caret="2899" fromTop="2" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml.cs" caret="5839" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1705B3A0-FDAE-4B5F-A694-07AE52ED66AB/f:MyWpfRdfResultControl.cs" caret="3054" fromTop="0" />
+      <File id="1705B3A0-FDAE-4B5F-A694-07AE52ED66AB/f:MyWpfRdfResultControl.cs" caret="3632" fromTop="9" />
+      <File id="1705B3A0-FDAE-4B5F-A694-07AE52ED66AB/f:MyWpfRdfResultControl.cs" caret="3887" fromTop="17" />
+      <File id="1705B3A0-FDAE-4B5F-A694-07AE52ED66AB/f:MyWpfRdfResultControl.cs" caret="3464" fromTop="13" />
+      <File id="1705B3A0-FDAE-4B5F-A694-07AE52ED66AB/f:MyWpfRdfResultControl.cs" caret="5714" fromTop="8" />
+      <File id="1705B3A0-FDAE-4B5F-A694-07AE52ED66AB/f:MyWpfRdfResultControl.cs" caret="6379" fromTop="15" />
+      <File id="1705B3A0-FDAE-4B5F-A694-07AE52ED66AB/f:MyWpfRdfResultControl.cs" caret="6863" fromTop="13" />
+      <File id="1705B3A0-FDAE-4B5F-A694-07AE52ED66AB/f:MyWpfRdfResultControl.cs" caret="6176" fromTop="11" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml.cs" caret="2260" fromTop="25" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml.cs" caret="2260" fromTop="21" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml.cs" caret="2241" fromTop="16" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml.cs" caret="2176" fromTop="25" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml.cs" caret="7582" fromTop="16" />
+      <File id="1705B3A0-FDAE-4B5F-A694-07AE52ED66AB/f:MyWpfRdfResultControl.cs" caret="809" fromTop="12" />
+      <File id="1705B3A0-FDAE-4B5F-A694-07AE52ED66AB/f:MyWpfRdfResultControl.cs" caret="7431" fromTop="15" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml.cs" caret="4177" fromTop="31" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml.cs" caret="2242" fromTop="25" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml.cs" caret="1423" fromTop="13" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml.cs" caret="5299" fromTop="15" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml.cs" caret="7313" fromTop="23" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml.cs" caret="2116" fromTop="31" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml.cs" caret="1852" fromTop="21" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml.cs" caret="5804" fromTop="12" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml" caret="3431" fromTop="2" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml" caret="4087" fromTop="7" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml" caret="3799" fromTop="5" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml" caret="4202" fromTop="1" />
+      <File id="1705B3A0-FDAE-4B5F-A694-07AE52ED66AB/f:MyWpfRdfResultControl.cs" caret="3337" fromTop="12" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml.cs" caret="7469" fromTop="26" />
+      <File id="5027592C-C0E2-4D25-910E-DFC47BF5E122/f:RdfBrowser.xaml.cs" caret="6083" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

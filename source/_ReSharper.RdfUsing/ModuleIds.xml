@@ -1,0 +1,29 @@
+<Modules>
+  <Module PersistentId="99502FC9-00E9-4086-8BE4-D85BE90C1E69" ModuleId="RdfUsing" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="dotNetRDF" />
+  <Module PersistentId="1705B3A0-FDAE-4B5F-A694-07AE52ED66AB" ModuleId="MyRdfResultControl" />
+  <Module PersistentId="5027592C-C0E2-4D25-910E-DFC47BF5E122" ModuleId="MyRdfBrowserUserControl" />
+  <Module PersistentId="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib" />
+  <Module PersistentId="dotNetRDF, Version=0.3.1.21869, Culture=neutral, PublicKeyToken=8b91af99db2769f2" ModuleId="dotNetRDF_1" />
+  <Module PersistentId="HtmlAgilityPack, Version=1.4.0.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a" ModuleId="HtmlAgilityPack" />
+  <Module PersistentId="MySql.Data, Version=6.3.2.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d" ModuleId="MySql.Data" />
+  <Module PersistentId="Newtonsoft.Json, Version=3.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed" ModuleId="Newtonsoft.Json" />
+  <Module PersistentId="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System" />
+  <Module PersistentId="System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Core" />
+  <Module PersistentId="System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Xaml" />
+  <Module PersistentId="System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Xml.Linq" />
+  <Module PersistentId="System.Data.DataSetExtensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Data.DataSetExtensions" />
+  <Module PersistentId="System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Data" />
+  <Module PersistentId="System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Xml" />
+  <Module PersistentId="virtado3, Version=6.1.3127.2, Culture=neutral, PublicKeyToken=391bf132017ae989" ModuleId="virtado3" />
+  <Module PersistentId="WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="WindowsBase" />
+  <Module PersistentId="PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="PresentationCore" />
+  <Module PersistentId="PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="PresentationFramework" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib_1" />
+  <Module PersistentId="MySql.Data, Version=6.0.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d" ModuleId="MySql.Data_1" />
+  <Module PersistentId="Microsoft.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="Microsoft.CSharp" />
+  <Module PersistentId="JetBrains.Annotations, Version=5.1.3000.12, Culture=neutral, PublicKeyToken=1010a0d8d6380325" ModuleId="JetBrains.Annotations" />
+  <Module PersistentId="MyRdfBrowserUserControl, Version=1.0.0.0, Culture=neutral" ModuleId="MyRdfBrowserUserControl_1" />
+  <Module PersistentId="MyRdfResultControl, Version=1.0.0.0, Culture=neutral" ModuleId="MyRdfResultControl_1" />
+  <Module PersistentId="RdfUsing, Version=1.0.0.0, Culture=neutral" ModuleId="RdfUsing_1" />
+</Modules>

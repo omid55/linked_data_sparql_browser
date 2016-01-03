@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rdf:RDF[
+	<!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+	<!ENTITY rdfs 'http://www.w3.org/2000/01/rdf-schema#'>
+	<!ENTITY xsd 'http://www.w3.org/2001/XMLSchema#'>
+	<!ENTITY dbpedia 'http://dbpedia.org/resource/'>
+	<!ENTITY yago 'http://dbpedia.org/class/yago/'>
+	<!ENTITY owl 'http://www.w3.org/2002/07/owl#'>
+	<!ENTITY dbpedia-owl 'http://dbpedia.org/ontology/'>
+	<!ENTITY foaf 'http://xmlns.com/foaf/0.1/'>
+	<!ENTITY dcterms 'http://purl.org/dc/terms/'>
+	<!ENTITY category 'http://dbpedia.org/resource/Category:'>
+	<!ENTITY dbpprop 'http://dbpedia.org/property/'>
+	<!ENTITY ns11 'http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/'>
+	<!ENTITY ns12 'http://dbpedia.org/resource/Template:'>
+	<!ENTITY ns13 'http://en.wikipedia.org/wiki/'>
+	<!ENTITY ns14 'http://www.w3.org/2006/03/wn/wn20/instances/'>
+	<!ENTITY yago-res 'http://mpii.de/yago/resource/'>
+]>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:dbpedia="http://dbpedia.org/resource/" xmlns:yago="http://dbpedia.org/class/yago/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:dbpedia-owl="http://dbpedia.org/ontology/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:category="http://dbpedia.org/resource/Category:" xmlns:dbpprop="http://dbpedia.org/property/" xmlns:ns11="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/" xmlns:ns12="http://dbpedia.org/resource/Template:" xmlns:ns13="http://en.wikipedia.org/wiki/" xmlns:ns14="http://www.w3.org/2006/03/wn/wn20/instances/" xmlns:yago-res="http://mpii.de/yago/resource/">
+	<rdf:Description rdf:about="&dbpedia;14_Weeks_of_Silence">
+		<dbpedia-owl:artist rdf:resource="&dbpedia;Zemfira" />
+	</rdf:Description>
+	<rdf:Description rdf:about="&dbpedia;Forgive_Me_My_Love">
+		<dbpedia-owl:artist rdf:resource="&dbpedia;Zemfira" />
+	</rdf:Description>
+	<rdf:Description rdf:about="&dbpedia;Thank_You_(Zemfira_album)">
+		<dbpedia-owl:artist rdf:resource="&dbpedia;Zemfira" />
+	</rdf:Description>
+	<rdf:Description rdf:about="&dbpedia;Vendetta_(Zemfira_album)">
+		<dbpedia-owl:artist rdf:resource="&dbpedia;Zemfira" />
+	</rdf:Description>
+	<yago:RussianFemaleSingers rdf:about="&dbpedia;Zemfira">
+		<dbpedia-owl:abstract xml:lang="sv">Rysk musikgrupp som grundades 1998, gruppen har fått sitt namn efter sångerskan i gruppen Zemfira.</dbpedia-owl:abstract>
+		<dbpedia-owl:abstract xml:lang="zh">Semfira Talgatowna Ramasanowa（俄語：Земфира Талгатовна Рамазанова,1976年8月26日－），是擁有巴什基爾人和韃靼族血統的俄羅斯女唱作人，也是Zemfira樂團的團長和主唱，Zemfira樂團是俄羅斯流行搖滾樂團，其名字則取自它的團長（從以前的Semfira修改到Zemfira）。</dbpedia-owl:abstract>
+		<dbpedia-owl:abstract xml:lang="fr">Zemfira est un groupe de rock russe originaire d'Oufa fondé en 1998 par la chanteuse et leader Zemfira Talgatovna Ramazanova (née le 26 août 1976 à Oufa). En 2005, le groupe se sépare après de nombreuses modifications. Certains musiciens partent dans d'autres groupes et Zemfira, la soliste, compositrice et parolière se lance dans une carrière solo. Entrée sous la toute nouvelle appellation "pop - rock", Zemfira a conquis un très large public dès son premier album. Son succès est démontrable: sa musique sort de l'ordinaire des groupes pop et ses paroles relèvent plutôt du domaine philosophique tout en gardant un côté énigmatique. Les chansons "SIDA" ("Tu as le SIDA, cela signifie que nous mourons"), "Se Pendre" (Je veux me pendre, la lampe, la corde, l'escalier. Deux mois ensanglantés, combien de mines et de victimes. Je serais là-haut, silencieuse et amoureuse") ne sont pas des chansons suicidaires et cyniques comme celles de tous les groupes de rock du moment mais sont un mélange de controverse et de clin d'œil au ras le bol de la vie médiatisée de la chanteuse. Aujourd'hui Zemfira Ramazanova est considérée comme la chanteuse la mieux payée dans le show-bizz russe. Son album (Вендетта - Vendetta), sorti en 2005, a montré son apogée en Russie: au bout de 3 ans d'absence son nouvel opus est considéré d'avance comme un nouveau chef d'œuvre et suscite une très grande médiatisation en dépit de la volonté de la chanteuse. Son intention principale était de ne pas séduire les radios et la faire oublier un peu, du monde de la presse en tout cas. C'est raté pour elle. Bien sûr, une telle volonté lui était permis vu son statut. L'année 2006 a été celle du repos pour la chanteuse, seulement quelques concerts et festivals. En 2007 Zemfira part en tournée, passant par les principales villes de Russie et Europe. Cette tournée, appelée "Déjà vu" revisite ses tubes à travers les 5 albums dans des arrangements différents des originaux et comporte une nouvelle chanson - Мальчик (garçon). C'est à l'occasion de cette tournée que le groupe s'est produit à Frankfort le 29 mai et à Paris le 30 mai 2007. Entre-temps, elle a enregistré le nouvel album à Londres, qui sort le 27 août 2007. La chanteuse a annoncé une année féerique avec beaucoup de surprises. Ces surprises ont commencé avec le concert à Moscou refermant la liste des villes de la tournée. Ce concert dit "vert" au théâtre "vert" de M. Gorki s’est déroulé le 8 juin dans le parc du théâtre. Une équipe de tournage, sous les commandes de Renata Litvinova, son compagnon artistique (elle a tournétous les clips de Vendetta) a été engagée afin permettre la sortie d'un DVD live. La deuxième surprise se compose par la mise en ligne de toutes les partie instrumentales et vocales de la chanson Mal'chik. Un concours est organisé: 10 remakes de la chanson choisis par la chanteuse seront édités sous forme d'un CD limité en août. La troisième action fut un jeu d’une durée d’une semaine. Chaque jour la chanteuse mettait sous forme codée un mot se référant à sa vie artistique. Chaque jour, dix participants trouvant le plus vite le mot caché étaient récompensés par l’album des remix de la chanson Mal’tchik. Le dernier jour de la semaine, le mot caché fut le titre du nouvel album. L’album s’appelle « Spassibo » (« Merci »). Douze chansons sont au programme : Durant des mois des bruits courent qu’aucun contrat n’a encore pas été signé avec une maison de disques afin de diffuser l’album. Finalement, l’album sortira en collaboration avec la nouvelle partie russe du journal français « Citizen k, ». La nouveauté consiste en l’absence de l’album des magasins de musique, seuls l’achat du journal permettra l’obtention du nouvel opus. Cette méthode est motivée par la non volonté de dépendre d’un label. L'album sorti, Zemfira repart en tournée commençant par l'est de la Russie, terminant par Moscou, au stade "Olimpijski" le 1er avril 2008 où elle s'est d'ailleurs déjà produite le même 1er avril 2000. L'Europe n'est pas dans la liste des concerts. Le 5 mai, Zemfira annonce par son site internet qu'elle se produira la 5 juillet 2008 à Cologne.</dbpedia-owl:abstract>
+		<dbpedia-owl:abstract xml:lang="nl">Zemfira is een in 1998 opgerichte Russische rockband, vernoemd naar de voornaam van bandleidster en leadzangeres Zemfira Talgatovna Ramazanova . Zemfira kan zowel slaan op de groep als geheel of op de persoon. Zemfira Ramazanova werd op 26 Augustus 1976 in Oefa, republiek Basjkirostan, geboren. Zij heeft Tataarse wortels. Al vanaf haar vierde kwam ze met muziek in aanraking. De andere bandleden zijn Rinat Achmadijev, Sergej Sozinov, Sergej Miroljoebov en Vadim Solovjov. De band werd praktisch meteen vanaf de oprichting immens populair en is dat gebleven.</dbpedia-owl:abstract>
+		<dbpedia-owl:abstract xml:lang="de">Zemfira ist eine populäre russische Musikgruppe, benannt nach der Sängerin und Songschreiberin Semfira Talgatowna Ramasanowa. Ramаsanowa ist tatarisch-baschkirischer Herkunft.</dbpedia-owl:abstract>
+		<dbpedia-owl:abstract xml:lang="es">Zemfira Talgátovna Ramazánova (En ruso Земфира Талгатовна Рамазанова), nació el 26 de agosto de 1976 en Ufá, República de Bashkortostán, Federación Rusa. Es vocalista y líder del grupo de ruso de rock "Zemfira", éste se formó en 1998 y es muy popular no sólo en Rusia, sino en otras ex-repúblicas soviéticas y de Europa oriental.</dbpedia-owl:abstract>
+		<dbpedia-owl:abstract xml:lang="sv">Zemfira Talgatovna Ramazanova, född 26 augusti 1976. Ledare och sångare i det ryska rockbandet Zemfira. Bandet grundades 1998 och är mycket populärt i Ryssland och i de forna Sovjetstaterna.</dbpedia-owl:abstract>
+		<dbpedia-owl:abstract xml:lang="fi">Zemfira Talgatovna Ramazanova, on venäläinen muusikko ja laulaja. Hän on julkaissut useita albumeita taiteilijanimellä Zemfira. Zemfira aloitti esiintymiset 1998 ja julkaisi ensimmäisen levytyksensä (Zemfira) 1999. Hän on entisen Neuvostoliiton alueella hyvin tunnettu ja suosittu. Zemfira on kansallisuudeltaan tataari.</dbpedia-owl:abstract>
+		<dbpedia-owl:abstract xml:lang="en">Zemfira, officially Zemfira Talgatovna Ramazanova; born 26 August 1976 in Ufa, Bashkortostan) is a Russian rock artist of Bashkir descent. She has been performing since 1998 and has been immensely popular in Russia and other former Soviet republics, also becoming a lesbian icon.</dbpedia-owl:abstract>
+		<dbpedia-owl:abstract xml:lang="pl">Zemfira, Ziemfira Tałgatowna Ramazanowa, (Земфира Талгатовна Рамазанова) – rosyjska piosenkarka rocka alternatywnego, autorka tekstów i kompozytorka, założycielka i solistka zespołu Zемфира (wcześniej Земфира). Zemfira jest przedstawicielką indie rocka, wyróżniającą się odejściem od tradycyjnej roli kobiety w rosyjskiej muzyce. Chociaż bywa porównywana z kobietami-rockersami: Żanną Aguzarową, Janką Diagilewą i Nastią Polewą, to tylko w niewielkim stopniu przypomina swoje rosyjskie poprzedniczki. Charakter jej dokonań jest bardziej zbliżony do twórczości takich zagranicznych artystek, jak Kate Bush, czy Bjork. Teksty piosenek Zemfiry są głęboko zaangażowane w powszechne problemy i zjawiska współczesnego społeczeństwa, takie jak alienacja, depresja, homoseksualizm, AIDS. Brzmieniowo Zemfira jest czasem porównywana do wczesnej Alanis Morissette i Melissy Etheridge. Jest obdarzona silnym, czystym głosem o dużej skali.</dbpedia-owl:abstract>
+		<dbpedia-owl:abstract xml:lang="ru">Земфи́ра Талга́товна Рамаза́нова — современная российская певица, музыкант, композитор и автор песен, выступающая под сценическим именем Земфира. За десять лет профессиональной карьеры выпустила шесть альбомов, получивших значительное внимание прессы и публики.</dbpedia-owl:abstract>
+		<dbpedia-owl:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1998-01-01T00:00:00-05:00</dbpedia-owl:activeYearsStartYear>
+		<dbpedia-owl:background xml:lang="en">solo_singer</dbpedia-owl:background>
+		<dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1976-08-26</dbpedia-owl:birthDate>
+		<dbpedia-owl:genre rdf:resource="&dbpedia;Alternative_rock" />
+		<dbpedia-owl:genre rdf:resource="&dbpedia;Pop_rock" />
+		<dbpedia-owl:genre rdf:resource="&dbpedia;Rock_(music)" />
+		<dbpedia-owl:hometown rdf:resource="&dbpedia;Soviet_Union" />
+		<dbpedia-owl:hometown rdf:resource="&dbpedia;Ufa" />
+		<dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zemfira_5_30122008.jpg/200px-Zemfira_5_30122008.jpg" />
+		<dbpedia-owl:wikiPageExternalLink rdf:resource="http://archive.salon.com/ent/music/feature/2000/02/29/zemfira/" />
+		<dbpedia-owl:wikiPageExternalLink rdf:resource="http://russmus.net/band.jsp?band=Zemfira" />
+		<dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bashedu.ru/encikl/u/uch_issk.htm" />
+		<dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.europaplus.ru/" />
+		<dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.miditext.ru/lyrics/ru/zemfira.html" />
+		<dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.zemfira.ru/" />
+		<dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.zemfira.ws/" />
+		<dbpprop:background xml:lang="en">solo_singer</dbpprop:background>
+		<dbpprop:born rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1976-08-26</dbpprop:born>
+		<dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1976</dbpprop:dateOfBirth>
+		<dbpprop:genre xml:lang="en">Rock, Alternative rock, Pop rock</dbpprop:genre>
+		<dbpprop:hasPhotoCollection rdf:resource="&ns11;Zemfira" />
+		<dbpprop:img xml:lang="en">Zemfira_5_30122008.jpg</dbpprop:img>
+		<dbpprop:imgCapt xml:lang="en">Zemfira in 2008</dbpprop:imgCapt>
+		<dbpprop:imgSize xml:lang="en">250px</dbpprop:imgSize>
+		<dbpprop:name xml:lang="en">Zemfira</dbpprop:name>
+		<dbpprop:name xml:lang="en">Zemfira Talgatovna Ramazanova</dbpprop:name>
+		<dbpprop:origin xml:lang="en">Ufa, Soviet Union</dbpprop:origin>
+		<dbpprop:url xml:lang="en">Official site</dbpprop:url>
+		<dbpprop:wikiPageUsesTemplate rdf:resource="&dbpedia;Template;Infobox_musical_artist" />
+		<dbpprop:wikiPageUsesTemplate rdf:resource="&dbpedia;Template;Persondata" />
+		<dbpprop:wordnet_type rdf:resource="&ns14;synset-musician-noun-1" />
+		<dbpprop:yearsActive xml:lang="en">1998&ndash;present</dbpprop:yearsActive>
+		<dcterms:subject rdf:resource="&dbpedia;Category;1976_births" />
+		<dcterms:subject rdf:resource="&dbpedia;Category;Bashkir_people" />
+		<dcterms:subject rdf:resource="&dbpedia;Category;Lesbian_musicians" />
+		<dcterms:subject rdf:resource="&dbpedia;Category;LGBT_people_from_Russia" />
+		<dcterms:subject rdf:resource="&dbpedia;Category;Living_people" />
+		<dcterms:subject rdf:resource="&dbpedia;Category;People_from_Ufa" />
+		<dcterms:subject rdf:resource="&dbpedia;Category;Russian_female_singers" />
+		<dcterms:subject rdf:resource="&dbpedia;Category;Russian_pop_singers" />
+		<dcterms:subject rdf:resource="&dbpedia;Category;Russian_rock_singers" />
+		<rdf:type rdf:resource="&yago;BashkirPeople" />
+		<rdf:type rdf:resource="&yago;LesbianMusicians" />
+		<rdf:type rdf:resource="&yago;LGBTPeopleFromRussia" />
+		<rdf:type rdf:resource="&yago;LivingPeople" />
+		<rdf:type rdf:resource="&yago;PeopleFromUfa" />
+		<rdf:type rdf:resource="&yago;Person100007846" />
+		<rdf:type rdf:resource="&yago;RussianPopSingers" />
+		<rdf:type rdf:resource="&yago;RussianRockSingers" />
+		<rdf:type rdf:resource="&dbpedia-owl;Artist" />
+		<rdf:type rdf:resource="&dbpedia-owl;MusicalArtist" />
+		<rdf:type rdf:resource="&dbpedia-owl;Person" />
+		<rdf:type rdf:resource="&owl;Thing" />
+		<rdf:type rdf:resource="&foaf;Person" />
+		<rdfs:comment xml:lang="sv">Rysk musikgrupp som grundades 1998, gruppen har fått sitt namn efter sångerskan i gruppen Zemfira.</rdfs:comment>
+		<rdfs:comment xml:lang="zh">Semfira Talgatowna Ramasanowa（俄語：Земфира Талгатовна Рамазанова,1976年8月26日－），是擁有巴什基爾人和韃靼族血統的俄羅斯女唱作人，也是Zemfira樂團的團長和主唱，Zemfira樂團是俄羅斯流行搖滾樂團，其名字則取自它的團長（從以前的Semfira修改到Zemfira）。</rdfs:comment>
+		<rdfs:comment xml:lang="fr">Zemfira est un groupe de rock russe originaire d'Oufa fondé en 1998 par la chanteuse et leader Zemfira Talgatovna Ramazanova (née le 26 août 1976 à Oufa). En 2005, le groupe se sépare après de nombreuses modifications. Certains musiciens partent dans d'autres groupes et Zemfira, la soliste, compositrice et parolière se lance dans une carrière solo. Entrée sous la toute nouvelle appellation "pop - rock", Zemfira a conquis un très large public dès son premier album.</rdfs:comment>
+		<rdfs:comment xml:lang="nl">Zemfira is een in 1998 opgerichte Russische rockband, vernoemd naar de voornaam van bandleidster en leadzangeres Zemfira Talgatovna Ramazanova . Zemfira kan zowel slaan op de groep als geheel of op de persoon. Zemfira Ramazanova werd op 26 Augustus 1976 in Oefa, republiek Basjkirostan, geboren. Zij heeft Tataarse wortels. Al vanaf haar vierde kwam ze met muziek in aanraking. De andere bandleden zijn Rinat Achmadijev, Sergej Sozinov, Sergej Miroljoebov en Vadim Solovjov.</rdfs:comment>
+		<rdfs:comment xml:lang="de">Zemfira ist eine populäre russische Musikgruppe, benannt nach der Sängerin und Songschreiberin Semfira Talgatowna Ramasanowa. Ramаsanowa ist tatarisch-baschkirischer Herkunft.</rdfs:comment>
+		<rdfs:comment xml:lang="es">Zemfira Talgátovna Ramazánova (En ruso Земфира Талгатовна Рамазанова), nació el 26 de agosto de 1976 en Ufá, República de Bashkortostán, Federación Rusa. Es vocalista y líder del grupo de ruso de rock "Zemfira", éste se formó en 1998 y es muy popular no sólo en Rusia, sino en otras ex-repúblicas soviéticas y de Europa oriental.</rdfs:comment>
+		<rdfs:comment xml:lang="sv">Zemfira Talgatovna Ramazanova, född 26 augusti 1976. Ledare och sångare i det ryska rockbandet Zemfira. Bandet grundades 1998 och är mycket populärt i Ryssland och i de forna Sovjetstaterna.</rdfs:comment>
+		<rdfs:comment xml:lang="fi">Zemfira Talgatovna Ramazanova, on venäläinen muusikko ja laulaja. Hän on julkaissut useita albumeita taiteilijanimellä Zemfira. Zemfira aloitti esiintymiset 1998 ja julkaisi ensimmäisen levytyksensä (Zemfira) 1999. Hän on entisen Neuvostoliiton alueella hyvin tunnettu ja suosittu. Zemfira on kansallisuudeltaan tataari.</rdfs:comment>
+		<rdfs:comment xml:lang="en">Zemfira, officially Zemfira Talgatovna Ramazanova; born 26 August 1976 in Ufa, Bashkortostan) is a Russian rock artist of Bashkir descent. She has been performing since 1998 and has been immensely popular in Russia and other former Soviet republics, also becoming a lesbian icon.</rdfs:comment>
+		<rdfs:comment xml:lang="pl">Zemfira, Ziemfira Tałgatowna Ramazanowa, (Земфира Талгатовна Рамазанова) – rosyjska piosenkarka rocka alternatywnego, autorka tekstów i kompozytorka, założycielka i solistka zespołu Zемфира (wcześniej Земфира). Zemfira jest przedstawicielką indie rocka, wyróżniającą się odejściem od tradycyjnej roli kobiety w rosyjskiej muzyce.</rdfs:comment>
+		<rdfs:comment xml:lang="ru">Земфи́ра Талга́товна Рамаза́нова — современная российская певица, музыкант, композитор и автор песен, выступающая под сценическим именем Земфира. За десять лет профессиональной карьеры выпустила шесть альбомов, получивших значительное внимание прессы и публики.</rdfs:comment>
+		<rdfs:label xml:lang="nl">Zemfira</rdfs:label>
+		<rdfs:label xml:lang="zh">Zemfira</rdfs:label>
+		<rdfs:label xml:lang="es">Zemfira</rdfs:label>
+		<rdfs:label xml:lang="en">Zemfira</rdfs:label>
+		<rdfs:label xml:lang="fi">Zemfira</rdfs:label>
+		<rdfs:label xml:lang="sv">Zemfira</rdfs:label>
+		<rdfs:label xml:lang="sv">Zemfira (musikgrupp)</rdfs:label>
+		<rdfs:label xml:lang="ru">Земфира</rdfs:label>
+		<owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m/06v_p4" />
+		<foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/2/2a/Zemfira_5_30122008.jpg" />
+		<foaf:homepage rdf:resource="http://www.zemfira.ru/" />
+		<foaf:name xml:lang="en">Zemfira</foaf:name>
+		<foaf:name xml:lang="en">Zemfira Talgatovna Ramazanova</foaf:name>
+		<foaf:page rdf:resource="&ns13;Zemfira" />
+	</yago:RussianFemaleSingers>
+	<rdf:Description rdf:about="&dbpedia;Zemfira.Live">
+		<dbpedia-owl:artist rdf:resource="&dbpedia;Zemfira" />
+	</rdf:Description>
+	<rdf:Description rdf:about="&dbpedia;Zemfira_(album)">
+		<dbpedia-owl:artist rdf:resource="&dbpedia;Zemfira" />
+	</rdf:Description>
+	<rdf:Description rdf:about="&dbpedia;Земфира">
+		<dbpedia-owl:wikiPageRedirects rdf:resource="&dbpedia;Zemfira" />
+	</rdf:Description>
+	<rdf:Description rdf:about="&ns13;Zemfira">
+		<foaf:primaryTopic rdf:resource="&dbpedia;Zemfira" />
+	</rdf:Description>
+	<rdf:Description rdf:about="&yago-res;Zemfira">
+		<owl:sameAs rdf:resource="&dbpedia;Zemfira" />
+	</rdf:Description>
+</rdf:RDF>
